@@ -28,3 +28,8 @@ dubbo:
     timeout: 5000
     #重试次数  默认0
     retries: 2
+    
+    
+zookeeper:
+  address: 127.0.0.1:2181
+  timeout: 4000

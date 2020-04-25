@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
-@EnableDubbo
+@EnableDubbo		//dubbo注释扫描
 @SpringBootApplication
 public class Application {
 
